@@ -1,3 +1,4 @@
+// add notice
 import { resolve as _resolve } from 'path'
 import { defineConfig } from 'vitest/config'
 
